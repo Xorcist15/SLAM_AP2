@@ -1,0 +1,10 @@
+LIB_BLL/bin
+LIB_BLL/obj 
+
+LIB_DAL/bin      
+LIB_DAL/obj
+
+SLAM_AP2/bin
+SLAM_AP2/obj
+
+.vs
