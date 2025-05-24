@@ -42,6 +42,8 @@ Le projet est organisé comme suit :
 
 ## 🛢️ Base de données
 
+![Schema Base de Donnees](./looping/schema.jpg)
+
 ### Connexion
 
 La chaîne de connexion utilisée est :

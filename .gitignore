@@ -8,3 +8,6 @@ SLAM_AP2/bin
 SLAM_AP2/obj
 
 .vs
+
+*.lo1
+LoopingImage.jpg
